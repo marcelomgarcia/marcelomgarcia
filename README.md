@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcelomgarcia
 - 👀 I’m interested in Linux, Python, development, and science in general
-- 🌱 I’m currently learning Flask
+- 🌱 I’m currently learning Flask, Docker, and Javascript.
 - 💞️ I’m looking to collaborate on web devel, API, monitoring
 - 📫 How to reach me ...
 
